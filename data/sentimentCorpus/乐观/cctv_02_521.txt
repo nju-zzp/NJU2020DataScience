@@ -1,0 +1,1 @@
+CO=corona VI=virus D=disease 19=year of identification
